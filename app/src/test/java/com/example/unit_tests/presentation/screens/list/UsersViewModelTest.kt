@@ -1,6 +1,5 @@
 package com.example.unit_tests.presentation.screens.list
 
-
 import com.example.unit_tests.data.database.entity.user.User
 import com.example.unit_tests.domain.useCases.getUserListUseCase
 import kotlinx.coroutines.Dispatchers

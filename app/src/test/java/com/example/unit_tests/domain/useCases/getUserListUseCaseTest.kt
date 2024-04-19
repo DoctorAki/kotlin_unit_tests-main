@@ -1,6 +1,5 @@
 package com.example.unit_tests.domain.useCases
 
-
 import com.example.unit_tests.data.database.entity.user.User
 import com.example.unit_tests.domain.repository.user.UserRepository
 import kotlinx.coroutines.flow.first

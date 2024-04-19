@@ -13,7 +13,6 @@ import org.mockito.kotlin.doThrow
 import org.mockito.kotlin.mock
 
 class addNewUserUseCaseTest {
-
     private val userRepository = mock<UserRepository>()
 
     @After

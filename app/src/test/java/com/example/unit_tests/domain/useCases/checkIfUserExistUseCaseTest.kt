@@ -1,5 +1,4 @@
 package com.example.unit_tests.domain.useCases
-
 import com.example.unit_tests.domain.repository.user.UserRepository
 import kotlinx.coroutines.runBlocking
 import org.junit.After

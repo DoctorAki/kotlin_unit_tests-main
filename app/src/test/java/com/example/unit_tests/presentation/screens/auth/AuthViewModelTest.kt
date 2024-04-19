@@ -16,7 +16,6 @@ import org.junit.After
 import org.junit.Before
 import org.junit.jupiter.api.Assertions.assertFalse
 
-
 class AuthViewModelTest {
     private val checkIfUserExistUseCase = mock<checkIfUserExistUseCase>()
     private val addNewUserUseCase = mock<addNewUserUseCase>()
